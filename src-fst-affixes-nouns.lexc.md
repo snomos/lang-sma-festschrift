@@ -1,10 +1,8 @@
 
 
-
 # Nominal inflection sublexica
 
 ## Inflection for odd-syllable nouns
-
 
 The default inflectional lexicon for odd-syllable nouns is **N_ODD**.
 Words like `gierehtse` is inflected using this lexicon. Other words inflected
@@ -26,8 +24,7 @@ darjome+N+Sem/Feat:darjoem N_ODD ;
 with `-oe-` as the stem vowel to get a vowel change `o` => `oe` in even-syllable
 word forms.
 
-
-*gierehtse (*"pulk"*) # Paradigm for odd-syllable nouns examples:*
+* gierehtse (*"pulk"*) # Paradigm for odd-syllable nouns examples:*
 * *gierehtse:* `gierehtse+N+Sg+Nom`
 * *gierehtsen:* `gierehtse+N+Sg+Gen`
 * *gierehtsem:* `gierehtse+N+Sg+Acc`
@@ -44,14 +41,11 @@ word forms.
 * *gierehtsigujmie:* `gierehtse+N+Pl+Com`
 * *gieriehtsinie:* `gierehtse+N+Ess`
 
-
 * Odd-syll loanwords: lexicon N_ODD_MEETERE
-
 
 * Odd-syll loanwords on -ihtele, such as kapihtele: lexicon IHTELE
 
 * Odd-syll loanwords: lexicon N_ODD_LOAN
-
 
 - Odd-syll sg: lexicon N_ODD_SG
 
@@ -61,27 +55,9 @@ word forms.
 
 - Default N_ODD plural lexicon: lexicon ÅABPETJH
 
-
 LEXICON TJE_LASSJE_RESIPR
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-*beetnege # Odd-syllable test examples:*
+* beetnege # Odd-syllable test examples:*
 * *beetnege:* `beetnege+N+Sg+Nom`
 * *beetneh:* `beetnege+N+Sg+Nom`
 * *beetnegen:* `beetnege+N+Sg+Gen`
@@ -98,25 +74,7 @@ LEXICON TJE_LASSJE_RESIPR
 * *beetnegigujmie:* `beetnege+N+Pl+Com`
 * *beetneginie:* `beetnege+N+Ess`
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-*åeruve # Odd-syllable test examples:*
+* åeruve # Odd-syllable test examples:*
 * *åeruve:* `åeruve+N+Sg+Nom`
 * *åeruven:* `åeruve+N+Sg+Gen`
 * *åeruvem:* `åeruve+N+Sg+Acc`
@@ -149,36 +107,7 @@ LEXICON TJE_LASSJE_RESIPR
 * *åerievadtjigujmie:* `åeruve+N+Der/Dimin+N+Pl+Com`
 * *åerievadtjine:* `åeruve+N+Der/Dimin+N+Ess`
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-*seerije # ODD-syllable test examples:*
+* seerije # ODD-syllable test examples:*
 * *seerije:* `seerije+N+Sg+Nom`
 * *seerijem:* `seerije+N+Sg+Acc`
 * *seerijen:* `seerije+N+Sg+Gen`
@@ -186,13 +115,7 @@ LEXICON TJE_LASSJE_RESIPR
 * *seerijisnie:* `seerije+N+Sg+Ine`
 * *seerijistie:* `seerije+N+Sg+Ela`
 
-
-
-
-
-
-
-*daktere # Odd-syllable test examples:*
+* daktere # Odd-syllable test examples:*
 * *daktere:* `daktere+N+Sg+Nom`
 * *dakteren:* `daktere+N+Sg+Gen`
 * *dakterem:* `daktere+N+Sg+Acc`
@@ -225,27 +148,19 @@ LEXICON TJE_LASSJE_RESIPR
 * *daktaradtjigujmie:* `daktere+N+Der/Dimin+N+Pl+Com`
 * *daktaradtjine:* `daktere+N+Der/Dimin+N+Ess`
 
-
-
-
-*australijeenere # Even-syllable test examples:*
+* australijeenere # Even-syllable test examples:*
 * *australijeenere:* `australijeenere+N+Sg+Nom`
 * *australijeenerem:* `australijeenere+N+Sg+Acc`
 * *australijeeneren:* `australijeenere+N+Sg+Gen`
 * *australijeenaristie:* `australijeenere+N+Sg+Ela`
 
-
-
-
-*sisilijaanere # Even-syllable test examples:*
+* sisilijaanere # Even-syllable test examples:*
 * *sisilijaanere:* `sisilijaanere+N+Sg+Nom`
 * *sisilijaanerem:* `sisilijaanere+N+Sg+Acc`
 * *sisilijaaneren:* `sisilijaanere+N+Sg+Gen`
 * *sisilijaanaristie:* `sisilijaanere+N+Sg+Ela`
 
-
-
-*radijaatore # Even-syllable test examples:*
+* radijaatore # Even-syllable test examples:*
 * *radijaatore:* `radijaatore+N+Sg+Nom`
 * *radijaatorem:* `radijaatore+N+Sg+Acc`
 * *radijaatoren:* `radijaatore+N+Sg+Gen`
@@ -253,9 +168,7 @@ LEXICON TJE_LASSJE_RESIPR
 * *radijaatoristie:* `radijaatore+N+Sg+Ela`
 * *radijaatorinie:* `radijaatore+N+Sg+Com`
 
-
-
-*pijaanove # ODD-syllable test examples:*
+* pijaanove # ODD-syllable test examples:*
 * *pijaanove:* `pijaanove+N+Sg+Nom`
 * *pijaanovem:* `pijaanove+N+Sg+Acc`
 * *pijaanoven:* `pijaanove+N+Sg+Gen`
@@ -263,9 +176,7 @@ LEXICON TJE_LASSJE_RESIPR
 * *pijaanovistie:* `pijaanove+N+Sg+Ela`
 * *pijaanovinie:* `pijaanove+N+Sg+Com`
 
-
-
-*administraatore# ODD-syllable test examples:*
+* administraatore# ODD-syllable test examples:*
 * *administraatore:* `administraatore+N+Sg+Nom`
 * *administraatorem:* `administraatore+N+Sg+Acc`
 * *administraatoren:* `administraatore+N+Sg+Gen`
@@ -273,9 +184,7 @@ LEXICON TJE_LASSJE_RESIPR
 * *administraatoristie:* `administraatore+N+Sg+Ela`
 * *administraatorinie:* `administraatore+N+Sg+Com`
 
-
-
-*faktore# Even-syllable test examples:*
+* faktore# Even-syllable test examples:*
 * *faktore:* `faktore+N+Sg+Nom`
 * *faktorem:* `faktore+N+Sg+Acc`
 * *faktoren:* `faktore+N+Sg+Gen`
@@ -283,189 +192,21 @@ LEXICON TJE_LASSJE_RESIPR
 * *faktoristie:* `faktore+N+Sg+Ela`
 * *faktorinie:* `faktore+N+Sg+Com`
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Inflection for nouns ending in oe
-
 
 The oe with umlaut generate the uml-ones
 and have the non-uml ones as +Use/NG.
 
-
-
-
-
-
-
-
 The oe without umlaut generate the non-uml-ones
 only, naturally without +Use/NG.
-
 
 Lexicon N_OE_OBL is for the -oe nouns without umlaut
 Illative is lifted out in order to allow for Use/NG for the
 umlauted ones.
 
+LEXICON EETE_LOAN    loanwords with -eete -
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- LEXICON EETE_LOAN    loanwords with -eete -
-
-
-*universiteete # Even-syllable test examples:*
+* universiteete # Even-syllable test examples:*
 * *universiteete:* `universiteete+N+Sg+Nom`
 * *universiteetem:* `universiteete+N+Sg+Acc`
 * *universiteetesne:* `universiteete+N+Sg+Ine`
@@ -473,43 +214,10 @@ umlauted ones.
 * *universiteetetjem:* `universiteete+N+Der/Dimin+N+Sg+Acc`
 * *universiteetetjisnie:* `universiteete+N+Der/Dimin+N+Sg+Ine`
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Inflection for NIEJTE_SG nouns: lexicon NIEJTE_SG
+## Inflection for NIEJTE_SG nouns: lexicon `NIEJTE_SG`
 Short descrioption of this lexicon, and its purpose.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-*vïelle # Even-syllable test examples:*
+* vïelle # Even-syllable test examples:*
 * *vïelle:* `vïelle+N+Sg+Nom`
 * *vïellese:* `vïelle+N+Sg+Ill`
 * *vïelline:* `vïelle+N+Sg+Com`
@@ -521,71 +229,22 @@ Short descrioption of this lexicon, and its purpose.
 * *vïellese:* `vïelle+N+Sg+Nom+PxSg3`
 * *vïellebe:* `vïelle+N+Sg+Nom+PxSg3`
 
+### `LEXICON KONTO  `
+Lexicon for vowel-final words with invariant stems"
 
-
-
-
-
-
- LEXICON KONTO   Lexicon for vowel-final words with invariant stems"
 ```
-  : KONTODECL ; 
+               +Sg:     KONTO_SG ; 
+               +Pl:     KONTO_PL ; 
+                        EVEN_ESS ; 
+        +Cmp/SgNom:     R        ; 
+        +Cmp/SgGen:%>n  R        ; 
+        +Cmp/PlGen:%>j  R        ; 
+ +Der1+Der/Dimin+N:%»tj GÅATETJE ; 
 ```
- LEXICON KONTODECL  Lexicon for vowel-final words with invariant stems"
-```
-                +Sg:     KONTO_SG ; 
-                +Pl:     KONTO_PL ; 
-                         EVEN_ESS ; 
-          +Cmp/SgNom:     R        ; 
-          +Cmp/SgGen:%>n  R        ; 
-          +Cmp/PlGen:%>j  R        ; 
-  +Der1+Der/Dimin+N:%»tj GÅATETJE ; 
-```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Px lexica     = Copy from Julev
-
-
-
-
-
-
-
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/nouns.lexc](http://github.com/giellalt/lang-sma/blob/main/../src/fst/affixes/nouns.lexc)</small>
+
+<small>This (part of) documentation was generated from [src/fst/affixes/nouns.lexc](https://github.com/snomos/lang-sma-festschrift/blob/main/src/fst/affixes/nouns.lexc)</small>
+
+---
+
